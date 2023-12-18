@@ -9,4 +9,4 @@ I passionate about Data Science, AI/ML, and NLP. I love uncovering hidden messag
 - 💬 Ask me about creating datasets from diverse sources, data preprocessing (cleaning), visualization, statistical tests, and building machine learning models using Python, R, and Tableau
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/thao-tran-a491b6139/)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I can make people laugh most of the time. 
+- ⚡ Fun fact: I can make people laugh most of the time ^^
