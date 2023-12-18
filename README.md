@@ -2,7 +2,7 @@
 
 I passionate about Data Science, AI/ML, and NLP. I love uncovering hidden messages within data to tell meaningful stories for better decision-making and prediction. 
 
-- 🔭 I’m currently working on Alliance for Science Educators Toolkit (ASET) project where groups of faculty and science educators designed the ASET Toolkit for the Next Generation Science Standards (NGSS) as a student assistant/analyst.
+- 🔭 I’m currently working on the Alliance for Science Educators Toolkit (ASET) project where groups of faculty and science educators designed the ASET Toolkit for the Next Generation Science Standards (NGSS) as a student assistant/analyst.
 - 🌱 I’m currently learning Data Scinece and AI/ML.
 - 👯 I’m looking to find an internship in related fiels. 
 - 🤔 I’m looking for help with NLP.
