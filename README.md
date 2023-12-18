@@ -1,4 +1,4 @@
-### Hi there 👋
+### Thao Tran 👋
 
 <!--
 **goldriver888/goldriver888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
