@@ -1,1 +1,1 @@
-
+This project involves applying Natural Language Processing (NLP) techniques to analyze customer reviews from Flipkart. The goal is to determine the sentiment (positive, negative, or neutral) expressed in each review. This can provide valuable insights into customer satisfaction and product quality, and can help inform business decisions. The analysis might involve data cleaning, text preprocessing, feature extraction, and training a machine learning model to classify the sentiment of each review.
